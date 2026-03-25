@@ -2,8 +2,6 @@
 
 > _As Gross World LoC (GWL) goes up, a nice-to-have would be for any of that code to be any good_. 
 
-**Note: lots of the links are literally TODO right now, am fixing this.**
-
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
@@ -15,7 +13,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Repos](#repos)
 - [Evals](#evals)
 - [Community](#community)
-- [Vision & Theory](#vision--theory)
+- [Theory](#theory)
 
 ---
 
@@ -27,41 +25,51 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 - [Proof Assistants in the Age of AI](https://leodemoura.github.io/blog/2026-2-18-proof-assistants-in-the-age-of-ai/)
 - [CSLib: Lean's Formal Software Foundation](https://blog.atlascomputing.org/p/cslib-leans-formal-software-foundation)
+- [karpathy tweet](TODO)
 
 ## Papers
 
-- [maaz et al (hypothesis spec inference vs numpy](TODO)
-- [lf-lean](TODO from theoremlabs)
+- [maaz et al (hypothesis spec inference vs numpy](https://arxiv.org/abs/2510.09907)
 
 ## Repos 
 
-- [BoxArena](TODO)
+- [BoxArena](https://github.com/for-all-dev/box-arena)
 
 ## Evals 
 
-- [FVAPPS](TODO)
-- [VeriSoftBench](TODO)
+- [FVAPPS](https://huggingface.co/datasets/quinn-dougherty/fvapps)
+- [CLEVER](https://arxiv.org/abs/2505.13938)
+- [VeriSoftBench](https://utopia-group.github.io/VeriSoftBench/)
 
 ## Community
 
 ### Orgs
-- [Atlas Computing](TODO)
+- [Atlas Computing](https://atlascomputing.org/)
 - [Oath FRO](TODO)
-- [Lean FRO](TODO)
-- [Theorem Labs](TODO)
-- [CSLib](TODO)
-- [Beneficial AI Foundation](TODO)
+- [Lean FRO](https://lean-lang.org/fro/)
+- [Theorem Labs](https://theoremlabs.com/)
+- [CSLib](https://www.cslib.io/)
+- [Beneficial AI Foundation](https://www.beneficialaifoundation.org/)
+- [Forall R&D](https://for-all.dev)
+- [Stanford's CENTAUR](https://centaur.stanford.edu/)
 
 ### Venues
-- [FMxAI](TODO) conference series
-- [Post AGI Formal Methods](TODO) workshop
+- [FMxAI](https://sites.google.com/view/fmxai2025) conference series
+- [Post AGI Formal Methods](https://www.p-ai-fm.com/) workshop
+
+### Feeds
+
+- [Can We Secure AI With Formal Methods?](https://newsletter.for-all.dev)
+- [Theorem's blog](https://theoremlabs.com/blog)
 
 ### Funders
 - TODO 
 
-## Vision & Theory
+## Theory
 
-- [Provably Secure Systems](TODO)
-- [Towards Guaranteed Safe AI](TODO)
+This is the more speculative/scifi side of things, as opposed to [worldview](#worldview) section which is very grounded.
+
+- [Provably Secure Systems](https://arxiv.org/abs/2309.01933)
+- [Towards Guaranteed Safe AI](https://arxiv.org/abs/2405.06624)
 - [Cruxes for AI Control via Proof Carrying Code](https://www.lesswrong.com/s/f9ewpmtz8AogLxvqx)
 ---
