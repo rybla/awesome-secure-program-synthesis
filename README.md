@@ -33,13 +33,14 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Repos 
 
-- [BoxArena](https://github.com/for-all-dev/box-arena)
+- TODO
 
 ## Evals 
 
 - [FVAPPS](https://huggingface.co/datasets/quinn-dougherty/fvapps)
 - [CLEVER](https://arxiv.org/abs/2505.13938)
 - [VeriSoftBench](https://utopia-group.github.io/VeriSoftBench/)
+- [BoxArena](https://box-arena.vercel.app/)
 
 ## Community
 
