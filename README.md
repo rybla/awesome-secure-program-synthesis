@@ -46,7 +46,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ### Orgs
 - [Atlas Computing](https://atlascomputing.org/)
-- [Oath FRO](TODO)
 - [Lean FRO](https://lean-lang.org/fro/)
 - [Theorem Labs](https://theoremlabs.com/)
 - [CSLib](https://www.cslib.io/)
