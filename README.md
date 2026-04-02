@@ -29,7 +29,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Papers
 
-- [maaz et al (hypothesis spec inference vs numpy](https://arxiv.org/abs/2510.09907)
+- [Agentic Property-Based Testing: Finding Bugs Across the Python Ecosystem (Maaz et al.)](https://arxiv.org/abs/2510.09907)
 
 ## Repos
 
