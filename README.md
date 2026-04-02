@@ -30,7 +30,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 - ["It must be an interesting time to be in programming languages and formal methods..."](https://x.com/karpathy/status/2023476423055601903)
 - [Formal Verification in the Age of AI](https://verse.systems/blog/post/2026-03-05-formal-verification-ai/)
 - [The Agentic Mullet: code in the front, proofs in the back](https://www.amplifypartners.com/blog-posts/the-agentic-mullet-code-in-the-front-proofs-in-the-back)
-- [The Infinity Project](https://ifp.org/the-infinity-project/)
 
 ## Papers
 
