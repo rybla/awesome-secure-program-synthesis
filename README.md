@@ -13,7 +13,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Repos](#repos)
 - [Evals](#evals)
 - [Community](#community)
-- [Posts](#worldview)
+- [Posts](#posts)
 - [Theory](#theory)
 - [Fiction](#fiction)
 
